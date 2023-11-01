@@ -40,7 +40,7 @@
         android:layout_height="150px"
         android:layout_marginBottom="152dp"
         android:backgroundTint="@color/white"
-        android:text="Button"
+        android:text="Check Logs"
         android:textColor="@color/black"
         android:textColorHighlight="#BD3939"
         android:textColorLink="#CC4B4B"
